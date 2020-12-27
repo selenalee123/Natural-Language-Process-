@@ -38,7 +38,7 @@ Some more example of stemming for root word "like" include:
 **2. Bag of Words Model **
 In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity.
 
-**3. Naivee Bayes Model:**
+**3. Naivee Bayes Model**
 Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable. Bayes’ theorem states the following relationship, given class variable  and dependent feature vector
 
 **4. Confusion Matrix**
